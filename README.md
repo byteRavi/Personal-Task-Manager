@@ -1,5 +1,5 @@
 **Peronsal Task Manager**
-  A beginner-friendly project to create and manage personal tasks using Airtable. This project is suitable for everyone
+  A beginner-friendly project to create and manage personal tasks using Airtable. This project is suitable for everyone/n
   like professionals or students, who are looking to stay prganized while tracking their tasks and goals𓊍.
   
 **Features**
